@@ -1,0 +1,230 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+    background-color: #D0D8DA;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#Cab {
+  background-color: #515558;  
+}
+
+#cabAll{
+  margin-left: 8%;
+}
+#TitleGit{
+  color: white;
+  font-size: 5em;
+  display: inline;
+}
+
+#SubTitleGit{
+  color: white;
+  margin-left: 5%;
+}
+
+#logo{
+  width: 12%;
+  margin-top: -4%;
+}
+
+#searchDiv{
+  width: 25%;
+  margin-top: 3%;
+  margin-left: 9%;
+  display: inline-block;
+}
+
+#searchTitle{
+  font-weight: bold;
+  font-size: 1.2em;
+  margin-left: 1%;
+}
+
+small{
+  text-align: center;
+}
+
+
+#profileTab{
+  width: 40%;
+  margin-left: 5%;
+  margin-top: 3%;  
+}
+
+#rep{
+  width: 100%;
+  height: 600px;
+  background-color: whitesmoke;
+  margin-left: 115%;  
+  overflow-y: scroll;  
+  margin-top: -30%; 
+}
+
+#itensProfile{
+  margin-left: 35%;
+  margin-top: -23%;
+}
+
+#avatar{
+  width: 30%;
+  border-radius: 40px;  
+  margin-left: 2%;
+  display: inline-block;
+}  
+
+#name{
+  margin-left: 10%;
+  vertical-align: top;
+  font-weight: bold;
+  display: inline;
+  
+}
+
+#repNumber{
+  font-weight: bold;
+}
+
+#followersNumber{
+  font-weight: bold;
+}
+
+#followingNumber{
+  font-weight: bold;
+}
+
+#btnProfile{
+  margin-top: 8%;
+  border-radius: 40px;
+  width: 30%;
+  height: 50px;
+  margin-left: -2%;
+}
+
+h2 {
+  margin-left: 65%;
+  
+}
+
+#repoName{
+  color: black;
+
+}
+
+#profile{
+  display: inline;
+}
+
+#repoName{
+  font-weight: bold;
+  font-size: 1.1em;
+}
+
+#titleX{
+  text-align: center;
+  width: 10%;
+  background-color: #515558;
+  color: white;
+}
+
+#titleN{
+  text-align: left;
+  width: 35%;
+  background-color: #515558;
+  color: white;
+}
+
+#titleR {
+  text-align: left;
+  width: 10%;
+  background-color: #515558;
+  color: white;
+}
+
+#titleW{
+  width: 10%;
+  background-color: #515558;
+  color: white;
+}
+
+#titleF{
+  width: 10%;
+  background-color: #515558;
+  color: white;
+}
+  
+#rate{
+  text-align: center;
+  
+}
+
+#rate :focus {
+  border: solid 1px green;
+  background-color: lightgreen;
+}
+
+.table td{
+  font-weight: bold;
+  padding-top: 25px;
+  padding-bottom: -10px;
+}
+
+#recentLiked{
+  width: 30%;
+  height: 250px;
+  background-color: lightgrey;
+  position: absolute;
+  top: 1%;
+  right: 9.5%;  
+  padding: 1%;
+  overflow-y: scroll;
+  font-weight: bold;
+  font-size: 1.1em;  
+  padding-left: 3%;
+}
+
+#fav{
+  margin-left: 26%;
+  margin-bottom: 5%;
+}
+
+#removeFav{
+  position: absolute;
+  right: 5%;
+  width: 5;
+}
+
+#footer{
+  height: 200px;
+  margin-top: 10%;
+}
+
+#dev{
+  color: white;
+  margin-left: 50%;
+  font-size: 1.2em;
+}
+
+#linked{
+  width: 70%;    
+}
+
+#myOut{
+  width: 11%;
+  margin-left: -12%;
+}
+
+#myGit{
+  width: 5.5%;
+  margin-left: -7%;
+  margin-right: 10%;
+}
